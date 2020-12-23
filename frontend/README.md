@@ -25,7 +25,7 @@ npm start
 yarn start
 ```
 
-Abrir [http://localhost:8081](http://localhost:8081) para visualizar los cambios
+Abrir [http://localhost:8081](http://localhost:8081) para visualizar los cambios en vivo
 
 ### Compilar para producción
 
@@ -34,6 +34,3 @@ npm build
 # or
 yarn build
 ```
-
-Abrir [http://localhost:8081](http://localhost:8081) para visualizar los cambios
-
